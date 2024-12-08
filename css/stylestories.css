@@ -1,0 +1,42 @@
+/* Hero Section */
+.hero-section {
+  background-color: #343a40;
+  padding: 100px 0;
+  background-image: url("https://via.placeholder.com/1200x400");
+  background-size: cover;
+  background-position: center;
+}
+
+.hero-section h1 {
+  font-size: 48px;
+  font-weight: bold;
+}
+
+.hero-section p {
+  font-size: 24px;
+}
+
+/* Story Cards */
+.story-card img {
+  height: 200px;
+  object-fit: cover;
+}
+
+.story-card .card-title {
+  font-size: 20px;
+  font-weight: bold;
+  color: #333;
+}
+
+.story-card .card-text {
+  color: #555;
+}
+
+/* Footer */
+footer {
+  background-color: #343a40;
+}
+
+footer p {
+  margin: 0;
+}
